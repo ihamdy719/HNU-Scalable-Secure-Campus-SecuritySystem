@@ -110,7 +110,7 @@ Project_Data_Security/
 │
 ├── Reports/
 │   ├── report.pdf
-│   └── project_requirements.pdf
+│
 │
 ├── Dashboards/
 │   ├── dashboard_admin.py
@@ -129,6 +129,7 @@ Project_Data_Security/
 ├── SQL Code/
 │   └── SRMS_DB_FINAL.sql
 │
+├──  project_requirements.pdf
 └── main.py
 ```
 
